@@ -1,7 +1,7 @@
 def contar_caracteres(s):
     """Função que conta o número de caracteres de uma string
     Ex:
-    >>> contar_caracteres('verla')
+    >>> contar_caracteres('fernanda')
     a: 1
     e: 1
     l: 1
